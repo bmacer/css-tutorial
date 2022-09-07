@@ -1,0 +1,39 @@
+* {
+  /* padding: 0;
+  margin: 0; */
+}
+
+div {
+  /* display: inline-block;
+  background-color: brown;
+  font-size: 30px;
+  height: 200px;
+  width: 200px;
+  outline: 2px black solid;
+  margin: 100px 20px; */
+}
+
+.parent {
+  background-color: blue;
+  position: relative;
+  height: 200vh;
+}
+.child {
+  margin: 20px;
+}
+
+.one {
+  background-color: green;
+  position: absolute;
+  top: 0;
+  left: 100px;
+  margin: 0;
+}
+
+.two {
+  background-color: red;
+}
+
+.three {
+  background-color: pink;
+}
